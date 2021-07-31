@@ -1,0 +1,35 @@
+int a = a + b; 
+
+int c = c + 5; 
+
+int d = d - e; 
+
+int f = c - 4;
+
+if (x < 0) {
+y = y + 2;
+}
+
+
+
+
+for(int i = 0; i < 5; i ++){
+	z = z + z; 
+}
+
+if (a == b){
+	a = a + 3; 
+}else{
+ 	b = b + 7; 
+}
+
+while ( x <= y ){
+	z *= x; 
+	x++;
+} 
+
+
+while ( f == 5 ){
+	a *= 5; 
+	f++;
+} 
